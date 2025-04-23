@@ -230,7 +230,7 @@ button {
     padding-bottom: 72px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)),
-        url(../images/09b2941e-6174-4acf-be6e-9a81e1f7e972.webp);
+        url(../images/team/IMG_0057.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 320px;
@@ -1124,7 +1124,7 @@ button {
         max-width: 320px;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/09b2941e-6174-4acf-be6e-9a81e1f7e972.webp);
+            url(../images/team/IMG_0057.JPG);
         background-size: cover;
     }
 }
@@ -1173,7 +1173,7 @@ button {
         padding-bottom: 112px;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/09b2941e-6174-4acf-be6e-9a81e1f7e972.webp);
+            url(../images/team/IMG_0057.JPG);
     }
 
     .list-advantages {
@@ -1249,7 +1249,7 @@ button {
         max-width: 768px;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/09b2941e-6174-4acf-be6e-9a81e1f7e972.webp);
+            url(../images/team/IMG_0057.JPG);
         background-size: cover;
     }
 }
@@ -1275,7 +1275,7 @@ button {
 
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/09b2941e-6174-4acf-be6e-9a81e1f7e972.webp);
+            url(../images/team/IMG_0057.JPG);
 
         .text-effective {
             font-size: 56px;
@@ -1381,7 +1381,7 @@ button {
             max-width: 1440px;
             background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                     rgba(46, 47, 66, 0.7)),
-                url(../images/09b2941e-6174-4acf-be6e-9a81e1f7e972.webp);
+                url(../images/team/IMG_0057.JPG);
             background-size: cover;
         }
     }
